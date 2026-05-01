@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كاندي التسبيح</string>
+    <string name="start_game">ابدأ الذكر</string>
+    <string name="score">النقاط</string>
+    <string name="level">المستوى</string>
+    <string name="restart">إعادة</string>
+    <string name="game_title">تَسْبِيحٌ مُبَارَك</string>
+    <string name="game_subtitle">اجمع الأحجار المتشابهة لتزهر الشاشة بذكر الله</string>
+</resources>
